@@ -15,6 +15,13 @@
   <li>Research Assistant at University of Applied Sciences Hamm-Lippstadt - (2024 - Present)</li>
 </ul>
 
+<h2>Personal Projects</h2>
+
+- [![JackBot](https://tinyurl.com/mr373y3a)](https://github.com/luisfmnunes/JackBotTelegram) - A Telegram Bot that stores, schedule and manage messages to be broadcasted to registered telegram groups. </br>
+- [![ZombiZoid](https://tinyurl.com/3mmmfett)](https://github.com/luisfmnunes/ZombiZoid) - A Discord Bot that uses RCON and SSH to manage a Remote Dedicated Server of Project Zomboid. </br>
+- [![deciPPher](https://img.shields.io/badge/decippher-EEEEEE?style=for-the-badge&logo=htmx&logoColor=orange)](https://github.com/luisfmnunes/deCiPPher) - A C++ Command Line Parsing Library using STL.  </br>
+- [![RetinaCpp](https://tinyurl.com/344mbs5k)](https://github.com/luisfmnunes/RetinaFacesCpp) - A C++ RetinaFaces Implementation using ONNXRuntime.  </br>
+
 <h3>Languages & Frameworks</h3>
 
 <!-- Programming Languages -->
@@ -22,6 +29,7 @@
 
 [![C](https://img.shields.io/badge/C-FF5733?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Cpp](https://img.shields.io/badge/C%2B%2B-900C3F?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com)
+[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://cplusplus.com)
 [![Python](https://img.shields.io/badge/PYTHON-FFC300?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=black)]()
 
@@ -37,10 +45,14 @@
 [![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 
 <!-- CI/CD and MLOps Tools-->
-<h4>CI/CD and MLOps Tools</h4>
+- <h4>CI/CD and MLOps Tools</h4>
 
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
-
+[![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)](https://podman.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) </br>
+[![GitLab-CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/solutions/continuous-integration/)
+[![Artifactory](https://img.shields.io/badge/artifactory-40BE46?style=for-the-badge&logo=jfrog&logoColor=white)](https://jfrog.com/artifactory/)
+[![TravisCI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)](https://www.travis-ci.com/)
 
 <!-- Embedded Systems and Web -->
 - <h4>Embedded Systems and Web Development</h4>
@@ -55,6 +67,11 @@
 [![RaspBerry](https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)](https://www.raspberrypi.com)
 
 
+<h2>Social Media and Contact</h2>
+
+<a href="luisfelipe5417@gmail.com"><img src="https://img.shields.io/badge/Gmail-B50023?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luisfmnunes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="http://discordapp.com/users/sirrandoom" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <!--
 ### Hi there 👋
 **luisfmnunes/luisfmnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
